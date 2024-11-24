@@ -22,4 +22,4 @@ Aplikasi Perhitungan Hari adalah program berbasis Java Swing yang dirancang untu
 Muhammad Subhan 2210010215
 
 ## Demo Aplikasi
-![App Screenshot](img/Hari.png)
+![App Screenshot](img/AplikasiPerhitunganHari.gif)
